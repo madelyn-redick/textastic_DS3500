@@ -1,5 +1,5 @@
 # Textastic
-This dashboard was part of a Fall 2023 homework assignment for DS3500 - Advanced Programming with Data at Northeastern University. Worked with @sahana-dhar and @payeurjeremiah to visualizing Cold War speeches based on words sentiment and cosine similarity. 
+This dashboard was part of a Fall 2023 homework assignment for DS3500 - Advanced Programming with Data at Northeastern University. Worked with @sahana-dhar and @payeurjeremiah to visualize Cold War speeches based on words sentiment and cosine similarity. 
 
 ## How to Visualize
 1. Clone this repository
